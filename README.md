@@ -205,3 +205,9 @@ což je ostuda. Vložení zadání je jednoduché jak facka:
 
 \includepdf[pages={1}]{zadani.pdf}
 ```
+
+Náš odevzdávací systém, který máme všichni tak rádi, to nějak umí udělat za vás,
+což je super, ale pokud chcete to PDF použít i jinde, bylo by stejně lepší to udělat ručně.
+Jak to ten sytém dělá (jestli vymění první stranu, nebo jen první stranu, která obsahuje magický text),
+těžko říct, protože je to magie (proprietární black box).
+O důvod víc, proč to udělat v TeXu.
