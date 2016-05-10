@@ -169,8 +169,9 @@ To nechceš. Dejte pár korun navíc za 100gramový papír. Vypadá to lépe.
 
 ## Vložte zadání práce do PDF
 
-Tam, co je napsané „Sem vložte zadání práce,“ máte vložit zadání práce.
-Je to jednodušší, než si myslíte.
+Tam, kde je napsané „Sem vložte zadání práce,“ máte vložit zadání práce.
+Já vím, je to instrukce těžká na pochopení, a proto většina studentů v odevzdaném PDF nechává tuto instrukci,
+což je ostuda. Vložení zadání je jednoduché jak facka:
 
 ```tex
 \RequirePackage{pdfpages} % v šabloně, jinak \usepackage
