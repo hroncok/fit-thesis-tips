@@ -14,6 +14,7 @@ It's written in Czech, bacuse that way it can attract more readers from FIT ČVU
 - [Naučte se používat svůj operační systém](#nau%C4%8Dte-se-pou%C5%BE%C3%ADvat-sv%C5%AFj-opera%C4%8Dn%C3%AD-syst%C3%A9m)
 - [Používejte nástroj Arara](#pou%C5%BE%C3%ADvejte-n%C3%A1stroj-arara)
 - [Používejte (nějakou) vlnu](#pou%C5%BE%C3%ADvejte-n%C4%9Bjakou-vlnu)
+- [Nesázejte ukázky kódu proporciálním písmem](#nes%C3%A1zejte-uk%C3%A1zky-k%C3%B3du-proporci%C3%A1ln%C3%ADm-p%C3%ADsmem)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -129,3 +130,22 @@ Vlna se dá používat jako řádkový program, kterému soubor předhodíte (vl
 
 Nejen pokud používáte vlnu manuálně z řádky, je vhodný čas použít na to všechno `Makefile`, což vám ušetří hromadu práce.
 To už jistě umíte.
+
+## Nesázejte ukázky kódu proporciálním písmem
+
+...je to hnusné. A dělá to skoro každý.
+Nějaký výchozí listing balíček to tak totiž asi má ve výchozím stavu.
+Používá proporciální písmo, ale zarovná ho jakoby neproporicálně.
+Pokud víte, co je to kerning, vytečou vám oči z důlků.
+
+A vůbec, použijte [minted](https://www.ctan.org/pkg/minted). Zvýrazňuje syntaxi a je mnohem modernější, hezčí a křupavější.
+[Tady najdete nějaký použitelný setup](https://github.com/hroncok/diplomka/blob/master/template/FITthesisXE.cls#L68).
+
+```tex
+\begin{listing}[htbp]
+\caption{\label{code:foo}Minted: Nyní ještě křupavější}
+\begin{minted}[bgcolor=codebg]{python}
+# ... code here ...
+\end{minted}
+\end{listing}
+```
