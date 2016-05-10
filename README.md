@@ -2,7 +2,7 @@
 Opinionated tips based guide for writing bachalor and magister diploma thesis on [FIT ČVUT](http://fit.cvut.cz/). 
 It's written in Czech, bacuse that way it can attract more readers from FIT ČVUT.
 
-## Používejete [XeLaTeX](http://tex.stackexchange.com/questions/3393/what-is-xetex-exactly-and-why-should-i-use-it)
+## Používejte [XeLaTeX](http://tex.stackexchange.com/questions/3393/what-is-xetex-exactly-and-why-should-i-use-it)
 
 Unicode je dnes standard, přestaňte používat obyčejný LaTeX, který s ním neumí pracovat.
 Určitě vás nebaví neustálě řešit `l\'etající akcent`, T1 kódování a podobné výmysly minulého tisíciletí.
