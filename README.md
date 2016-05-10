@@ -17,6 +17,7 @@ It's written in Czech, bacuse that way it can attract more readers from FIT ČVU
 - [Nesázejte ukázky kódu proporciálním písmem](#nes%C3%A1zejte-uk%C3%A1zky-k%C3%B3du-proporci%C3%A1ln%C3%ADm-p%C3%ADsmem)
 - [Co můžete, dejte vektorem/textem](#co-m%C5%AF%C5%BEete-dejte-vektoremtextem)
 - [Tiskněte na silnější papír](#tiskn%C4%9Bte-na-siln%C4%9Bj%C5%A1%C3%AD-pap%C3%ADr)
+- [Vložte zadání práce do PDF](#vlo%C5%BEte-zad%C3%A1n%C3%AD-pr%C3%A1ce-do-pdf)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -165,3 +166,14 @@ Ano, je to občas pakárna, zjistit, co to je za písmo, ale pokud používáte 
 
 Obyčejný papír je částečně průsvitný/průhledný a druhá strana je přes něj vidět.
 To nechceš. Dejte pár korun navíc za 100gramový papír. Vypadá to lépe.
+
+## Vložte zadání práce do PDF
+
+Tam, co je napsané „Sem vložte zadání práce,“ máte vložit zadání práce.
+Je to jednodušší, než si myslíte.
+
+```tex
+\RequirePackage{pdfpages} % v šabloně, jinak \usepackage
+
+\includepdf[pages={1}]{zadani.pdf}
+```
