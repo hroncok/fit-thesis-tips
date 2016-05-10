@@ -22,3 +22,15 @@ Doporučuji předtím, než začnete psát tomu (Xe)LaTexu minimálně den věno
 Může se to zdát jako ztráta času, ale pokud budete průběžně sázet, hned uvidíte, že něco vypadá blbě, že by bylo lepší to udělat takhle apod.
 
 Sazbě je třeba se samozřejmě věnovat i na samotném konci, zkontrolovat, že vám nic nepřetéká z řádku, že všechno vypadá, jak má, apod.
+
+## Oficiální šablona je doporučení
+
+„Ale ono to pak vypadá jinak než v šabloně.“
+
+„Šablona mi tam napsala v českém textu *Listing*, to mám nechat?“
+
+Nehroťte to, šablona je **doporučení**, pokud něco uděláte jinak a budete k tomu mít dobrý důvod
+(vypadá to líp, je to modernější, lépe se s tím pracuje, je to čitelnější apod.), je to více než v pořádku.
+
+BTW Šablona samotná je na [školním GitLabu](https://gitlab.fit.cvut.cz/guthondr/ThesisTemplate)
+a není problém poslat tam Merge Request (gitlabí ekvivalent githubího Pull Requestu), pokud máte úpravu, která je prospěšná všem.
