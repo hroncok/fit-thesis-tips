@@ -11,6 +11,6 @@ XeLaTeXu se nemusíte bát, přestože oficiální šablona je pro obyčejný La
 Oficiální šablona neexistuje, ale můžete se inspirovat třeba [touto](https://github.com/hroncok/bakalarka/blob/master/template/FITthesisXE.cls).
 Pokud se naučíte šablonu mírně upravit, získáte i znalosti potřebné na to, abyste fixli nějaký případný problém, který se časem objeví.
 
-Pak můžete ve zdrojáku používat normální Unicode, háčkyčárky, Русский, &#x1f4a9;, cokoliv.
+Pak můžete ve zdrojáku používat normální Unicode, háčkyčárky, „uvozovky“ bez maker, Русский, &#x1f4a9;, cokoliv.
 
 (Pokud používáte TeX bez LaTeXu, stačí použít XeTeX.)
