@@ -9,6 +9,7 @@ It's written in Czech, bacuse that way it can attract more readers from FIT ČVU
 - [Používejte XeLaTeX](#pou%C5%BE%C3%ADvejte-xelatex)
 - [Věnujte minimálně den přípravě sazby (před samotným psaním)](#v%C4%9Bnujte-minim%C3%A1ln%C4%9B-den-p%C5%99%C3%ADprav%C4%9B-sazby-p%C5%99ed-samotn%C3%BDm-psan%C3%ADm)
 - [Oficiální šablona je doporučení](#ofici%C3%A1ln%C3%AD-%C5%A1ablona-je-doporu%C4%8Den%C3%AD)
+- [Používejte git](#pou%C5%BE%C3%ADvejte-git)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -46,3 +47,16 @@ Nehroťte to, šablona je **doporučení**, pokud něco uděláte jinak a budete
 
 BTW Šablona samotná je na [školním GitLabu](https://gitlab.fit.cvut.cz/guthondr/ThesisTemplate)
 a není problém poslat tam Merge Request (gitlabí ekvivalent githubího Pull Requestu), pokud máte úpravu, která je prospěšná všem.
+
+## Používejte git
+
+Nejen pro kód implementační části, i pro text vaší práce (každou tu věc samozřejmě v samostatném repozitáři).
+Pomůže vám to, když něco přestane fungovat. Naučte se používat `git bisect`, bude se to hodit.
+
+Pokud použijete GitHub nebo školní GitLab, váš vedoucí vám může přímo v jednotlivých commitech komentovat změny
+a nemusíte ho otravovat a posílat mu dokola e-mailem PDFko :)
+
+Ideálně použijte repozitář v režimu public, pokud nejste vázání nějakou smlouvou o výhradní licenci.
+Z vašeho zdrojáku mohou spolužáci čerpat tipy, jak něco udělat, a vaše práce stejně bude nakonec veřejná.
+
+Tady jen pozor, aby vám kamarádi nebo vedoucí neposílali Pull Requesty, práci musíte vypracovat sami.
