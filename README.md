@@ -13,6 +13,7 @@ It's written in Czech, bacuse that way it can attract more readers from FIT ČVU
 - [Tvořte free (open-source) software](#tvo%C5%99te-free-open-source-software)
 - [Naučte se používat svůj operační systém](#nau%C4%8Dte-se-pou%C5%BE%C3%ADvat-sv%C5%AFj-opera%C4%8Dn%C3%AD-syst%C3%A9m)
 - [Používejte nástroj Arara](#pou%C5%BE%C3%ADvejte-n%C3%A1stroj-arara)
+- [Používejte nástroj latexmk](#pou%C5%BE%C3%ADvejte-n%C3%A1stroj-latexmk)
 - [Používejte (nějakou) vlnu](#pou%C5%BE%C3%ADvejte-n%C4%9Bjakou-vlnu)
 - [Nesázejte ukázky kódu proporciálním písmem](#nes%C3%A1zejte-uk%C3%A1zky-k%C3%B3du-proporci%C3%A1ln%C3%ADm-p%C3%ADsmem)
 - [Co můžete, dejte vektorem/textem](#co-m%C5%AF%C5%BEete-dejte-vektoremtextem)
@@ -111,6 +112,25 @@ Případně s obyčejným LaTeXem:
 ```
 
 A pak použijte příkaz `arara foo.tex`. Arara je papoušek, který papouškuje příkazy za vás.
+
+## Používejte nástroj [latexmk](https://www.ctan.org/pkg/latexmk/)
+
+Výstup LaTeXu je dlouhý a nečitelný, těžko v něm najít to, co stojí za to číst.
+LaTeXmk vám hezky napíše, co se podělalo, nebo čemu věnovat pozornost.
+
+```
+Latexmk: List of undefined refs and citations:
+  Label `hateoas' multiply defined
+Biber warning: Duplicate entry key: 'BSD3' in file 'library.bib', skipping ...
+Biber warning: I didn't find a database entry for 'foo' (section 0)
+```
+
+Zároveň se účelem trochu kryje s Ararou, protože vám taky ten dokument projede víckrát.
+Každopádně ho můžete používat i z Arary, například takto:
+
+```tex
+% arara: xelatexmk
+```
 
 ## Používejte (nějakou) vlnu
 
