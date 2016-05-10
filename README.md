@@ -10,6 +10,7 @@ It's written in Czech, bacuse that way it can attract more readers from FIT ČVU
 - [Věnujte minimálně den přípravě sazby (před samotným psaním)](#v%C4%9Bnujte-minim%C3%A1ln%C4%9B-den-p%C5%99%C3%ADprav%C4%9B-sazby-p%C5%99ed-samotn%C3%BDm-psan%C3%ADm)
 - [Oficiální šablona je doporučení](#ofici%C3%A1ln%C3%AD-%C5%A1ablona-je-doporu%C4%8Den%C3%AD)
 - [Používejte git](#pou%C5%BE%C3%ADvejte-git)
+- [Tvořte free (open-source) software](#tvo%C5%99te-free-open-source-software)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -60,3 +61,16 @@ Ideálně použijte repozitář v režimu public, pokud nejste vázání nějako
 Z vašeho zdrojáku mohou spolužáci čerpat tipy, jak něco udělat, a vaše práce stejně bude nakonec veřejná.
 
 Tady jen pozor, aby vám kamarádi nebo vedoucí neposílali Pull Requesty, práci musíte vypracovat sami.
+
+## Tvořte free (open-source) software
+
+Tady záleží na názoru, ale já v 3D labu chci po svých studentech, aby vytvářeli implementační část práce jako svobodný software.
+Pokud neděláte práci pro firmu, která vám to zakáže, je to dobrá volba, projekt pak uvidí například firmy, ve kterých (třeba) budete chtít pracovat.
+
+Zvolte si licenci jakou chcete -- kašlete na prohlášení, máte právo (pokud neuzavíráte s někým smlouvu o exkluzivitě) odevzdat škole práci s nějakým prohlášením a tu stejnou práci dát na GitHub s MIT/GPL/... licencí.
+Pokud chcete použít prohlášení, které se podobá GPL, zvolte prohlášení 4
+(*...osoby jsou oprávněny Dílo užít jakýmkoli způsobem, který nesnižuje hodnotu Díla a za jakýmkoli účelem ...
+licenci alespoň ve výše uvedeném rozsahu a zároveň zpřístupnit zdrojový kód takového díla...*).
+
+V repozitáři se softwarem používejte anglické commit message, komentáře, proměnné. Dejte tam anglické README.
+Kolemjdoucí by neměl poznat, že to je implementační část české bakalářky/diplomky (pokud to tam samozřejmě nenapíšete).
