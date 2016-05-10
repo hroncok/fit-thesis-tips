@@ -151,6 +151,9 @@ Vlna se dá používat jako řádkový program, kterému soubor předhodíte (vl
 \input xevlna.sty
 ```
 
+(Z Facebooku to vypadá, že si všichni kompilují vlnu sami, tak jen připomenu,
+že na Fedoře opět stačí `dnf install /usr/bin/vlna` nebo `dnf install 'tex(xevlna.sty)'`.)
+
 Nejen pokud používáte vlnu manuálně z řádky, je vhodný čas použít na to všechno `Makefile`, což vám ušetří hromadu práce.
 To už jistě umíte.
 
