@@ -1,3 +1,14 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
+- [FIT ČVUT thesis tips](#fit-%C4%8Dvut-thesis-tips)
+  - [Používejte XeLaTeX](#pou%C5%BE%C3%ADvejte-xelatex)
+  - [Věnujte minimálně den přípravě sazby (před samotným psaním)](#v%C4%9Bnujte-minim%C3%A1ln%C4%9B-den-p%C5%99%C3%ADprav%C4%9B-sazby-p%C5%99ed-samotn%C3%BDm-psan%C3%ADm)
+  - [Oficiální šablona je doporučení](#ofici%C3%A1ln%C3%AD-%C5%A1ablona-je-doporu%C4%8Den%C3%AD)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # FIT ČVUT thesis tips
 Opinionated tips based guide for writing bachalor and magister diploma thesis on [FIT ČVUT](http://fit.cvut.cz/). 
 It's written in Czech, bacuse that way it can attract more readers from FIT ČVUT.
