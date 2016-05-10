@@ -14,3 +14,11 @@ Pokud se naučíte šablonu mírně upravit, získáte i znalosti potřebné na 
 Pak můžete ve zdrojáku používat normální Unicode, háčkyčárky, „uvozovky“ bez maker, Русский, &#x1f4a9;, cokoliv.
 
 (Pokud používáte TeX bez LaTeXu, stačí použít XeTeX.)
+
+## Věnujte minimálně den přípravě sazby (před samotným psaním)
+
+Setkávám se s tím, že studenti něco nějak napíšou a před odevzdáním se to snaží naprasit do školní latexové šablony.
+Doporučuji předtím, než začnete psát tomu (Xe)LaTexu minimálně den věnovat a všechno si hezky připravit.
+Může se to zdát jako ztráta času, ale pokud budete průběžně sázet, hned uvidíte, že něco vypadá blbě, že by bylo lepší to udělat takhle apod.
+
+Sazbě je třeba se samozřejmě věnovat i na samotném konci, zkontrolovat, že vám nic nepřetéká z řádku, že všechno vypadá, jak má, apod.
