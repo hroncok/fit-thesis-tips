@@ -179,6 +179,10 @@ Výstup z terminálu, log? -- text (*listing*), ne obrázek.
 
 Graf, diagram? -- vektor, ne bitmapa.
 
+Kreslíte nějaké schéma rukou? Použijte výborný [cartoonist](https://github.com/honzajavorek/cartoonist).
+
+Chcete dělat class diagramy, use case schémata a aktivity? Zkuste [yuml](http://yuml.me/)/[scruffy](https://github.com/aivarsk/scruffy).
+
 Děláte vlastní grafy/diagramy/... s popisky? **Použijte v popiskách stejné písmo, jako v práci!**
 Ano, je to občas pakárna, zjistit, co to je za písmo, ale pokud používáte XeLaTeX, tak to vlastně víte.
 
