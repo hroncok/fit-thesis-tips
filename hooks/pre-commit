@@ -1,0 +1,3 @@
+#!/bin/sh
+doctoc --notitle README.md
+git add README.md
