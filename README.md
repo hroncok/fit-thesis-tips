@@ -11,6 +11,7 @@ It's written in Czech, bacuse that way it can attract more readers from FIT ČVU
 - [Oficiální šablona je doporučení](#ofici%C3%A1ln%C3%AD-%C5%A1ablona-je-doporu%C4%8Den%C3%AD)
 - [Používejte git](#pou%C5%BE%C3%ADvejte-git)
 - [Tvořte free (open-source) software](#tvo%C5%99te-free-open-source-software)
+- [Naučte se používat svůj operační systém](#nau%C4%8Dte-se-pou%C5%BE%C3%ADvat-sv%C5%AFj-opera%C4%8Dn%C3%AD-syst%C3%A9m)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -74,3 +75,10 @@ licenci alespoň ve výše uvedeném rozsahu a zároveň zpřístupnit zdrojový
 
 V repozitáři se softwarem používejte anglické commit message, komentáře, proměnné. Dejte tam anglické README.
 Kolemjdoucí by neměl poznat, že to je implementační část české bakalářky/diplomky (pokud to tam samozřejmě nenapíšete).
+
+## Naučte se používat svůj operační systém
+
+Pokud na vás TeX křičí, že mu chybí `foo.sty`, naučte se, kde ho vzít.
+Na Fedoře stačí udělat `dnf install 'tex(foo.sty)'`,
+na jiných distribucích a operačních systémech to půjde nějak podobně.
+IMHO není v pořádku se s chybovou hláškou o chybějícím souboru/balíčku TeXu v posledním ročníku FITu nedokázat vypořádat.
