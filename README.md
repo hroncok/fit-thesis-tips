@@ -13,6 +13,7 @@ It's written in Czech, bacuse that way it can attract more readers from FIT ČVU
 - [Tvořte free (open-source) software](#tvo%C5%99te-free-open-source-software)
 - [Naučte se používat svůj operační systém](#nau%C4%8Dte-se-pou%C5%BE%C3%ADvat-sv%C5%AFj-opera%C4%8Dn%C3%AD-syst%C3%A9m)
 - [Používejte nástroj Arara](#pou%C5%BE%C3%ADvejte-n%C3%A1stroj-arara)
+- [Používejte (nějakou) vlnu](#pou%C5%BE%C3%ADvejte-n%C4%9Bjakou-vlnu)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -106,3 +107,25 @@ Případně s obyčejným LaTeXem:
 ```
 
 A pak použijte příkaz `arara foo.tex`. Arara je papoušek, který papouškuje příkazy za vás.
+
+## Používejte (nějakou) vlnu
+
+Vlna vkládá nedělitelné mezery (vln(k)y, `~`) za neslabičné předložky (a i jinam, kam nedělitelná mezera patří, ale ne úplně všude).
+Použít vlnu je dobré, protože nemusíte na nedělitelné mezery tolik myslet.
+
+Můžete použít různé vlny: [Olšákovu vlnu](http://petr.olsak.net/ftp/olsak/vlna/),
+[xevlnu](https://www.ctan.org/pkg/xevlna) pro XeTex,
+chytřejší [luavlnu](https://github.com/michal-h21/luavlna) pro LuaTex (umí tituly, jednotky apod.).
+
+Vlna se dá používat jako řádkový program, kterému soubor předhodíte (vlna), nebo jako balíček přímo ve zdrojáku (luavlna a xevlna):
+
+```tex
+% XeLaTeX:
+\usepackage{xevlna}
+
+% XeTeX:
+\input xevlna.sty
+```
+
+Nejen pokud používáte vlnu manuálně z řádky, je vhodný čas použít na to všechno `Makefile`, což vám ušetří hromadu práce.
+To už jistě umíte.
