@@ -205,3 +205,6 @@ což je ostuda. Vložení zadání je jednoduché jak facka:
 
 \includepdf[pages={1}]{zadani.pdf}
 ```
+## Nemějte práci v jednom velkém souboru 
+
+Doporučuji nemít práci v jednom mega .tex souboru, ale rozdělit ji do několika menších souborů (např. na úrovni kapitol) a ty potom vkládat pomoci `\input`. 
