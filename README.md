@@ -22,6 +22,9 @@ It's written in Czech, bacuse that way it can attract more readers from FIT ČVU
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+Budou tu hlavně technické tipy. Pokud vás zajímají rady o obsahu,
+čtěte například [blog Adama Herouta](http://www.herout.net/blog/category/diplomky/).
+
 ## Používejte [XeLaTeX](http://tex.stackexchange.com/questions/3393/what-is-xetex-exactly-and-why-should-i-use-it)
 
 Unicode je dnes standard, přestaňte používat obyčejný LaTeX, který s ním neumí pracovat.
