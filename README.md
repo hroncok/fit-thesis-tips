@@ -19,6 +19,7 @@ It's written in Czech, bacuse that way it can attract more readers from FIT ČVU
 - [Co můžete, dejte vektorem/textem](#co-m%C5%AF%C5%BEete-dejte-vektoremtextem)
 - [Tiskněte na silnější papír](#tiskn%C4%9Bte-na-siln%C4%9Bj%C5%A1%C3%AD-pap%C3%ADr)
 - [Vložte zadání práce do PDF](#vlo%C5%BEte-zad%C3%A1n%C3%AD-pr%C3%A1ce-do-pdf)
+- [Nemějte práci v jednom velkém souboru](#nem%C4%9Bjte-pr%C3%A1ci-v-jednom-velk%C3%A9m-souboru)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -214,3 +215,8 @@ což je super, ale pokud chcete to PDF použít i jinde, bylo by stejně lepší
 Jak to ten sytém dělá (jestli vymění první stranu, nebo jen první stranu, která obsahuje magický text),
 těžko říct, protože je to magie (proprietární black box).
 O důvod víc, proč to udělat v TeXu.
+
+## Nemějte práci v jednom velkém souboru 
+
+Doporučuji nemít práci v jednom mega `.tex` souboru,
+ale rozdělit ji do několika menších souborů (např. na úrovni kapitol) a ty potom vkládat pomoci `\input`.
