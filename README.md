@@ -214,6 +214,7 @@ Náš odevzdávací systém, který máme všichni tak rádi, to nějak umí ud�
 což je super, ale pokud chcete to PDF použít i jinde, bylo by stejně lepší to udělat ručně.
 Jak to ten sytém dělá (jestli vymění první stranu, nebo jen první stranu, která obsahuje magický text),
 těžko říct, protože je to magie (proprietární black box).
+Navíc automagicky vložené zadání v BPM má hrozně nízké DPI.
 O důvod víc, proč to udělat v TeXu.
 
 ## Nemějte práci v jednom velkém souboru 
