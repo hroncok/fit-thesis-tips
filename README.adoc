@@ -47,7 +47,7 @@ Sazbě je třeba se samozřejmě věnovat i na samotném konci, zkontrolovat, ž
 
 Nehroťte to, šablona je *doporučení*, pokud něco uděláte jinak a budete k tomu mít dobrý důvod (vypadá to líp, je to modernější, lépe se s tím pracuje, je to čitelnější apod.), je to více než v pořádku.
 
-BTW Šablona samotná je na https://gitlab.fit.cvut.cz/guthondr/ThesisTemplate[školním GitLabu] a není problém poslat tam Merge Request (gitlabí ekvivalent githubího Pull Requestu), pokud máte úpravu, která je prospěšná všem.
+BTW Šablona samotná je na https://gitlab.fit.cvut.cz/guthondr/ThesisTemplate[fakultním GitLabu] a není problém poslat tam Merge Request (gitlabí ekvivalent githubího Pull Requestu), pokud máte úpravu, která je prospěšná všem.
 
 
 === Naučte se používat svůj operační systém
@@ -200,7 +200,7 @@ Nejen pro kód implementační části, i pro text vaší práce (každou tu vě
 Pomůže vám to, když něco přestane fungovat.
 Naučte se používat `git bisect`, bude se to hodit.
 
-Pokud použijete GitHub nebo školní GitLab, váš vedoucí vám může přímo v jednotlivých commitech komentovat změny a nemusíte ho otravovat a posílat mu dokola e-mailem PDFko :)
+Pokud použijete GitHub nebo fakultní GitLab, váš vedoucí vám může přímo v jednotlivých commitech komentovat změny a nemusíte ho otravovat a posílat mu dokola e-mailem PDFko :)
 
 Ideálně použijte repozitář v režimu public, pokud nejste vázání nějakou smlouvou o výhradní licenci.
 Z vašeho zdrojáku mohou spolužáci čerpat tipy, jak něco udělat, a vaše práce stejně bude nakonec veřejná.
