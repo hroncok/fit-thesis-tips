@@ -4,7 +4,7 @@
 :source-language: tex
 
 Opinionated tips based guide for writing bachalor and magister diploma thesis on http://fit.cvut.cz/[FIT ČVUT].
-It's written in Czech, bacuse that way it can attract more readers from FIT ČVUT.
+It's written in Czech, because that way it can attract more readers from FIT ČVUT.
 
 toc::[]
 
@@ -17,7 +17,7 @@ Pokud vás zajímají rady o obsahu, čtěte například http://www.herout.net/b
 === Používejte http://tex.stackexchange.com/questions/3393/what-is-xetex-exactly-and-why-should-i-use-it[XeLaTeX]
 
 Unicode je dnes standard, přestaňte používat obyčejný LaTeX, který s ním neumí pracovat.
-Určitě vás nebaví neustálě řešit `l\'etající akcent`, T1 kódování a podobné výmysly minulého tisíciletí.
+Určitě vás nebaví neustále řešit `l\'etající akcent`, T1 kódování a podobné výmysly minulého tisíciletí.
 
 XeLaTeXu se nemusíte bát, přestože oficiální šablona je pro obyčejný LaTeX, její úprava je poměrně triviální.
 Oficiální šablona neexistuje, ale můžete se inspirovat třeba https://github.com/hroncok/bakalarka/blob/master/template/FITthesisXE.cls[touto].
@@ -128,12 +128,12 @@ Nejen pokud používáte vlnu manuálně z řádky, je vhodný čas použít na 
 To už jistě umíte.
 
 
-=== Nesázejte ukázky kódu proporciálním písmem
+=== Nesázejte ukázky kódu proporcionálním písmem
 
 ...je to hnusné.
 A dělá to skoro každý.
 Nějaký výchozí listing balíček to tak totiž asi má ve výchozím stavu.
-Používá proporciální písmo, ale zarovná ho jakoby neproporicálně.
+Používá proporcionální písmo, ale zarovná ho jakoby neproporcionálně.
 Pokud víte, co je to kerning, vytečou vám oči z důlků.
 
 A vůbec, použijte https://www.ctan.org/pkg/minted[minted].
