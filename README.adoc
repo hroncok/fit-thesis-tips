@@ -38,6 +38,8 @@ Může se to zdát jako ztráta času, ale pokud budete průběžně sázet, hne
 
 Sazbě je třeba se samozřejmě věnovat i na samotném konci, zkontrolovat, že vám nic nepřetéká z řádku, že všechno vypadá, jak má, apod.
 
+Věnujte chvilku času osvěžení si práce s LaTeXem.
+Jako poměrně stručný, ale zároveň vyčerpávající návod lze doporučit https://en.wikibooks.org/wiki/LaTeX[LaTeX Wikibook].
 
 === Oficiální šablona je doporučení
 
@@ -167,6 +169,12 @@ Děláte vlastní grafy/diagramy/... s popisky?
 *Použijte v popiskách stejné písmo, jako v práci!*
 Ano, je to občas pakárna, zjistit, co to je za písmo, ale pokud používáte XeLaTeX, tak to vlastně víte.
 
+Nejdokonalejší typografické integrace obrázků a diagramů do práce dosáhnete, pokud je vytvoříte rovnou pomocí (La)TeXu.
+K vytváření dvourozměrných i trojrozměrných grafů existuje vynikající balíček https://www.ctan.org/pkg/pgfplots?lang=en[PGFPlots].
+Komplikovanější diagramy lze tvořit pomocí https://www.ctan.org/pkg/pgf?lang=en[TikZ/PGF].
+První uvedený balíček je nadstavbou nad druhým, a lze je proto i všelijak kombinovat.
+Oba mají velmi dobře čitelnou dokumentaci se spoustou konkrétních příkladů.
+Navíc lze na webu najít řadu inspirativních ukázek (viz např. http://pgfplots.sourceforge.net/gallery.html[PGFPlots Gallery] a http://www.texample.net[TeXample.net]).
 
 === Vložte zadání práce do PDF
 
@@ -190,6 +198,8 @@ O důvod víc, proč to udělat v TeXu.
 === Nemějte práci v jednom velkém souboru
 
 Doporučuji nemít práci v jednom mega `.tex` souboru, ale rozdělit ji do několika menších souborů (např. na úrovni kapitol) a ty potom vkládat pomoci `\input`.
+
+Pokud chcete překládat jenom některou z takto vložených kapitol (např. kvůli časové náročnosti překladu kapitoly, na které už nepracujete, nebo chcete-li školiteli poslat jenom již hotovou část) a chcete zachovat správné číslování, https://en.wikibooks.org/wiki/LaTeX/Modular_Documents#Using_.5Cincludeonly[použijte] `\include` a `\includeonly`.
 
 
 == Ostatní
