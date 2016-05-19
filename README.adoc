@@ -1,4 +1,5 @@
 = FIT ČVUT thesis tips
+:backslash: &#92;
 :toc: macro
 :!toc-title:
 :source-language: tex
@@ -17,7 +18,7 @@ Pokud vás zajímají rady o obsahu, čtěte například http://www.herout.net/b
 === Používejte http://tex.stackexchange.com/questions/3393/what-is-xetex-exactly-and-why-should-i-use-it[XeLaTeX]
 
 Unicode je dnes standard, přestaňte používat obyčejný LaTeX, který s ním neumí pracovat.
-Určitě vás nebaví neustále řešit `l&#92;'etaj&#92;'ic&#92;'i akcent`, T1 kódování a podobné výmysly minulého tisíciletí.
+Určitě vás nebaví neustále řešit `l{backslash}'etaj{backslash}'ic{backslash}'i akcent`, T1 kódování a podobné výmysly minulého tisíciletí.
 
 XeLaTeXu se nemusíte bát, přestože oficiální šablona je pro obyčejný LaTeX, její úprava je poměrně triviální.
 Oficiální šablona neexistuje, ale můžete se inspirovat třeba https://github.com/hroncok/bakalarka/blob/master/template/FITthesisXE.cls[touto].
