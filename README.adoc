@@ -238,3 +238,20 @@ Obyčejný papír je částečně průsvitný/průhledný a druhá strana je př
 To nechceš.
 Dejte pár korun navíc za 100gramový papír.
 Vypadá to lépe.
+
+=== Přemýšlejte nad tím, že váš text bude někdo číst
+
+Ano, je to tak: někdo to bude číst.
+Text by tak měl pomáhat čtenáři a měl by se ideálně dát přečíst nahlas, aby mu bylo rovnou rozumět.
+Kromě plovoucích prostředí (obrázky, tabulky) je třeba dodržovat pravidla klasické středoškolské slohovky tak, jak je všichni milujeme.
+Například: základním prvkem je věta končící tečkou a to i když píšeme http://prirucka.ujc.cas.cz/?id=870[výčty] (ve většině případů).
+Pokud nemáme spisovatelské sklony, je lepší se nepouštět do větších souvětí a informace v klidu předat kratšími, ale jasnými větami.
+Psaní anglickým pojmů, zvláště jejich skloňování či časování, nevypadá vůbec dobře.
+Některým anglicismům se zvláště v IT nelze vyhnout, ale je-li jazykem práce čeština, pak je to čeština a česko-anglický kočkopes jen naznačuje mezery v základním vzdělání.
+Anglické pojmy je vhodné používat pouze není-li ustálený český překlad či je k tomu jiný praktický důvod (který je vhodné uvést).
+Píšete-li práci anglicky, pak vězte, že nejste-li si svou angličtinou jistojisti, pak budete trpět o něco více, protože angličtina neodpovídá k češtině jedna k jedné a nelze překládat slovo po slůvku.
+
+Psaní odkazů na literaturu je také důležité: věcná tvrzení musí být buď jasně odvozena nebo řečeno, kam se může čtenář podívat, aby je našel.
+Primárně NEjsou vhodné odkazy typu „odstavec...odstavec, poslední věta v odstavci zakončená tečkou. [1]“, kde [1] je vztaženo k něčemu neurčitému uprostřed odstavce.
+V tom případě čtenář neví, co má ve zmíněné literatuře hledat.
+Nejjednoduším způsobem je referenci uvést ve větě a jasně zmínit, k čemu se vztahuje: „Dle [1] lze všechny kočky zkompilovat.“ nebo „Pro detailnější informace o této problematice doporučujeme [1,3].“
