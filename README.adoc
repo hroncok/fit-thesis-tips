@@ -21,7 +21,7 @@ Unicode je dnes standard, přestaňte používat obyčejný LaTeX, který s ním
 Určitě vás nebaví neustále řešit `l{backslash}'etaj{backslash}'ic{backslash}'i akcent`, T1 kódování a podobné výmysly minulého tisíciletí.
 
 XeLaTeXu se nemusíte bát, přestože oficiální šablona je pro obyčejný LaTeX, její úprava je poměrně triviální.
-Oficiální šablona neexistuje, ale můžete se inspirovat třeba https://github.com/hroncok/bakalarka/blob/master/template/FITthesisXE.cls[touto].
+Oficiální šablona neexistuje, ale můžete se inspirovat třeba https://github.com/hroncok/diplomka/blob/master/template/FITthesisXE.cls[touto].
 Pokud se naučíte šablonu mírně upravit, získáte i znalosti potřebné na to, abyste fixli nějaký případný problém, který se časem objeví.
 
 Pak můžete ve zdrojáku používat normální Unicode, háčkyčárky, „uvozovky“ bez maker, Русский, 💩, cokoliv.
