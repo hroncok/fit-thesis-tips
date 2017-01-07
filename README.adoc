@@ -181,14 +181,21 @@ Navíc lze na webu najít řadu inspirativních ukázek (viz např. http://pgfpl
 
 Tam, kde je napsané „Sem vložte zadání práce,“ máte vložit zadání práce.
 Já vím, je to instrukce těžká na pochopení, a proto většina studentů v odevzdaném PDF nechává tuto instrukci, což je ostuda.
-Vložení zadání je jednoduché jak facka:
+Vložení zadání je jednoduché jak facka, do FIT šablony přidejte `pdfpages`:
 
 [source]
 ----
-\RequirePackage{pdfpages} % v šabloně, jinak \usepackage
+\RequirePackage{pdfpages}
+----
 
+A nahraďte text "Sem vložte zadání.." příkazem:
+
+[source]
+----
 \includepdf[pages={1}]{zadani.pdf}
 ----
+
+Viz příklad https://github.com/VojtechMyslivec/mceliece-mathematica/blob/odevzdani/text/FITthesis.cls#L455[zde].
 
 Náš odevzdávací systém, který máme všichni tak rádi, to nějak umí udělat za vás, což je super, ale pokud chcete to PDF použít i jinde, bylo by stejně lepší to udělat ručně.
 Jak to ten sytém dělá (jestli vymění první stranu, nebo jen první stranu, která obsahuje magický text), těžko říct, protože je to magie (proprietární black box).
