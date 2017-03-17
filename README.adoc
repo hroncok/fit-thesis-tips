@@ -37,6 +37,8 @@ Setkávám se s tím, že studenti něco nějak napíšou a před odevzdáním s
 Doporučuji předtím, než začnete psát, tomu (Xe)LaTexu minimálně den věnovat a všechno si hezky připravit.
 Může se to zdát jako ztráta času, ale pokud budete průběžně sázet, hned uvidíte, že něco vypadá blbě, že by bylo lepší to udělat takhle apod.
 
+Mohu doporučit balíček blindtext, který vám http://www.herout.net/blog/2017/03/pomalu-uz-pojdme-psat/[usnadní přípravu struktury práce].
+
 Sazbě je třeba se samozřejmě věnovat i na samotném konci, zkontrolovat, že vám nic nepřetéká z řádku, že všechno vypadá, jak má, apod.
 
 Věnujte chvilku času osvěžení si práce s LaTeXem.
