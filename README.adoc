@@ -264,3 +264,5 @@ Psaní odkazů na literaturu je také důležité: věcná tvrzení musí být b
 Primárně NEjsou vhodné odkazy typu „odstavec...odstavec, poslední věta v odstavci zakončená tečkou. [1]“, kde [1] je vztaženo k něčemu neurčitému uprostřed odstavce.
 V tom případě čtenář neví, co má ve zmíněné literatuře hledat.
 Nejjednoduším způsobem je referenci uvést ve větě a jasně zmínit, k čemu se vztahuje: „Dle [1] lze všechny kočky zkompilovat.“ nebo „Pro detailnější informace o této problematice doporučujeme [1,3].“
+
+Často se studenti ptají: „Mám v práci 5 (15, 50…) položek v seznamu literatury, stačí to?“ Postupujte obráceně: Každé tvrzení, které napíšete, musí být podloženo citací, nebo jste jej vyzkoumali ve své práci. Napsat: „TeX je nejpoužívanější sázecí systém v akademické sféře,“ aniž byste uvedli zdroj tohoto tvrzení, prostě není možné. Pokud se budete držet tohoto pravidla, nebudete mít s malým množstvím citací problém.
