@@ -212,6 +212,19 @@ Doporučuji nemít práci v jednom mega `.tex` souboru, ale rozdělit ji do něk
 Pokud chcete překládat jenom některou z takto vložených kapitol (např. kvůli časové náročnosti překladu kapitoly, na které už nepracujete, nebo chcete-li školiteli poslat jenom již hotovou část) a chcete zachovat správné číslování, https://en.wikibooks.org/wiki/LaTeX/Modular_Documents#Using_.5Cincludeonly[použijte] `\include` a `\includeonly`.
 
 
+=== Sjednoťte formátování pojmů
+
+Ve vaší práci se pravděpodobně bude vyskytovat mnoho různých pojmů: názvy tříd,
+metod, funkcí, programů, knihoven, jména souborů… rozhodněte se, jak je budete
+formátovat, a svého rozhodnutí se držte. Nikde není do kamene vytesáno, že
+název funkce musí být v textu neproporcionálním písmem, v uvozovkách nebo
+kurzívou, ale vypadá velmi neprofesionálně, pokud to je `na jednom místě tak`
+a _jinde jinak_.
+
+Stanovte si pravidla a nejlépe si je sepište. Když narazíte na nový druh pojmu,
+vytvořte si pro něj pravidlo. Pokud chcete být übercool, vytvořte si na
+jednotlivé druhy pojmů makra.
+
 == Ostatní
 
 === Používejte git
