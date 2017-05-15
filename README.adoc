@@ -199,10 +199,7 @@ A nahraďte text "Sem vložte zadání.." příkazem:
 
 Viz příklad https://github.com/VojtechMyslivec/mceliece-mathematica/blob/odevzdani/text/FITthesis.cls#L455[zde].
 
-Náš odevzdávací systém, který máme všichni tak rádi, to nějak umí udělat za vás, což je super, ale pokud chcete to PDF použít i jinde, bylo by stejně lepší to udělat ručně.
-Jak to ten sytém dělá (jestli vymění první stranu, nebo jen první stranu, která obsahuje magický text), těžko říct, protože je to magie (proprietární black box).
-Navíc automagicky vložené zadání v BPM má hrozně nízké DPI.
-O důvod víc, proč to udělat v TeXu.
+*Update:* Náš odevzdávací systém, který máme všichni tak rádi, to nějak umí udělat za vás. Pokud ale chcete PDF generované přímo ze zdroje použít i jinde, tato rada se vám stále hodí.
 
 
 === Nemějte práci v jednom velkém souboru
