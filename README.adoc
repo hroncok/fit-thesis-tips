@@ -270,6 +270,8 @@ Některým anglicismům se zvláště v IT nelze vyhnout, ale je-li jazykem prá
 Anglické pojmy je vhodné používat pouze není-li ustálený český překlad či je k tomu jiný praktický důvod (který je vhodné uvést).
 Píšete-li práci anglicky, pak vězte, že nejste-li si svou angličtinou jistojisti, pak budete trpět o něco více, protože angličtina neodpovídá k češtině jedna k jedné a nelze překládat slovo po slůvku.
 
+=== Citace
+
 Psaní odkazů na literaturu je také důležité: věcná tvrzení musí být buď jasně odvozena nebo řečeno, kam se může čtenář podívat, aby je našel.
 Primárně NEjsou vhodné odkazy typu „odstavec...odstavec, poslední věta v odstavci zakončená tečkou. [1]“, kde [1] je vztaženo k něčemu neurčitému uprostřed odstavce.
 V tom případě čtenář neví, co má ve zmíněné literatuře hledat.
