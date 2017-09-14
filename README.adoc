@@ -34,7 +34,7 @@ Stejně tak pro citace používejte http://biblatex-biber.sourceforge.net/[Biber
 === Věnujte minimálně den přípravě sazby (před samotným psaním)
 
 Setkávám se s tím, že studenti něco nějak napíšou a před odevzdáním se to snaží naprasit do školní latexové šablony.
-Doporučuji předtím, než začnete psát, tomu (Xe)LaTexu minimálně den věnovat a všechno si hezky připravit.
+Doporučuji předtím, než začnete psát, sazbě a (Xe)LaTexu minimálně den věnovat a všechno si hezky připravit.
 Může se to zdát jako ztráta času, ale pokud budete průběžně sázet, hned uvidíte, že něco vypadá blbě, že by bylo lepší to udělat takhle apod.
 
 Mohu doporučit balíček blindtext, který vám http://www.herout.net/blog/2017/03/pomalu-uz-pojdme-psat/[usnadní přípravu struktury práce].
