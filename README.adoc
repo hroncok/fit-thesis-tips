@@ -4,7 +4,7 @@
 :!toc-title:
 :source-language: tex
 
-Opinionated tips based guide for writing bachalor and magister diploma thesis on http://fit.cvut.cz/[FIT ČVUT].
+Opinionated tips based guide for writing bachelor's and master's diploma thesis on http://fit.cvut.cz/[FIT ČVUT].
 It's written in Czech, because that way it can attract more readers from FIT ČVUT.
 
 toc::[]
@@ -261,11 +261,11 @@ Vypadá to lépe.
 === Přemýšlejte nad tím, že váš text bude někdo číst
 
 Ano, je to tak: někdo to bude číst.
-Text by tak měl pomáhat čtenáři a měl by se ideálně dát přečíst nahlas, aby mu bylo rovnou rozumět.
+Text by tak měl pomáhat čtenáři a měl by se ideálně dát přečíst nahlas tak, aby mu bylo rovnou rozumět.
 Kromě plovoucích prostředí (obrázky, tabulky) je třeba dodržovat pravidla klasické středoškolské slohovky tak, jak je všichni milujeme.
 Například: základním prvkem je věta končící tečkou a to i když píšeme http://prirucka.ujc.cas.cz/?id=870[výčty] (ve většině případů).
 Pokud nemáme spisovatelské sklony, je lepší se nepouštět do větších souvětí a informace v klidu předat kratšími, ale jasnými větami.
-Psaní anglickým pojmů, zvláště jejich skloňování či časování, nevypadá vůbec dobře.
+Psaní anglických pojmů, zvláště jejich skloňování či časování, nevypadá vůbec dobře.
 Některým anglicismům se zvláště v IT nelze vyhnout, ale je-li jazykem práce čeština, pak je to čeština a česko-anglický kočkopes jen naznačuje mezery v základním vzdělání.
 Anglické pojmy je vhodné používat pouze není-li ustálený český překlad či je k tomu jiný praktický důvod (který je vhodné uvést).
 Píšete-li práci anglicky, pak vězte, že nejste-li si svou angličtinou jistojisti, pak budete trpět o něco více, protože angličtina neodpovídá k češtině jedna k jedné a nelze překládat slovo po slůvku.
