@@ -177,7 +177,7 @@ K vytváření dvourozměrných i trojrozměrných grafů existuje vynikající 
 Komplikovanější diagramy lze tvořit pomocí https://www.ctan.org/pkg/pgf?lang=en[TikZ/PGF].
 První uvedený balíček je nadstavbou nad druhým, a lze je proto i všelijak kombinovat.
 Oba mají velmi dobře čitelnou dokumentaci se spoustou konkrétních příkladů.
-Navíc lze na webu najít řadu inspirativních ukázek (viz např. http://pgfplots.sourceforge.net/gallery.html[PGFPlots Gallery] a http://www.texample.net[TeXample.net]).
+Navíc lze na webu najít řadu inspirativních ukázek (viz např. http://pgfplots.sourceforge.net/gallery.html[PGFPlots Gallery] a http://www.texample.net[TeXample.net]). Existují i nástroje na konverzi grafů do TikZu, například https://github.com/nschloe/matplotlib2tikz[matplotlib2tikz] pro pythonní Matplotlib.
 
 === Vložte zadání práce do PDF
 
