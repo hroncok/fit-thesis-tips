@@ -180,7 +180,7 @@ Oba mají velmi dobře čitelnou dokumentaci se spoustou konkrétních příklad
 Navíc lze na webu najít řadu inspirativních ukázek (viz např. http://pgfplots.sourceforge.net/gallery.html[PGFPlots Gallery] a http://www.texample.net[TeXample.net]). Existují i nástroje na konverzi grafů do TikZu, například https://github.com/nschloe/matplotlib2tikz[matplotlib2tikz] pro pythonní Matplotlib.
 
 Screenshoty webových stránek jdou také nahradit vektorem, stačí stránku s vhodným nastavením vytisknout do PDF,
-případně použít sofistikovanější nástorj, jako třeba https://wkhtmltopdf.org/[wkhtmltopdf].
+případně použít sofistikovanější nástroj, jako třeba https://wkhtmltopdf.org/[wkhtmltopdf].
 
 === Vložte zadání práce do PDF
 
