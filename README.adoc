@@ -281,3 +281,22 @@ V tom případě čtenář neví, co má ve zmíněné literatuře hledat.
 Nejjednoduším způsobem je referenci uvést ve větě a jasně zmínit, k čemu se vztahuje: „Dle [1] lze všechny kočky zkompilovat.“ nebo „Pro detailnější informace o této problematice doporučujeme [1,3].“
 
 Často se studenti ptají: „Mám v práci 5 (15, 50…) položek v seznamu literatury, stačí to?“ Postupujte obráceně: Každé tvrzení, které napíšete, musí být podloženo citací, nebo jste jej vyzkoumali ve své práci. Napsat: „TeX je nejpoužívanější sázecí systém v akademické sféře,“ aniž byste uvedli zdroj tohoto tvrzení, prostě není možné. Pokud se budete držet tohoto pravidla, nebudete mít s malým množstvím citací problém.
+
+=== Komunikujte nejen se svým vedoucím, ale i oponentem
+
+Že se máte s vedoucím práce pravidelně scházet a konzultovat průběh své práce, snad ani nemusím připomínat.
+Nikde ale není psáno, že oponent musí vaší práci vidět až po odevzdání.
+V první řadě si zkuste oponenty sami vybírat podle jejich zájmů a oboru.
+Budete pak mít mj. jistotu, že vámi vybraný oponent komunikuje.
+
+Oponent vám v posudku může vytknout věci, které vedoucí nepovažoval za důležité.
+Není neobvyklé, že známka navržená vedoucím a oponentem se razantně liší.
+Student je tedy přesvědčen, že všechno bude v naprosté pohodě, protože má od vedoucího A, a nejednou přistane oponentura za E nebo nedej bože F.
+To určitě není příjemné 😱
+
+Nebojte se s oponentem předem domluvit, že práci zašlete na připomínky ještě před odevzdáním (byť rozpracovanou).
+Oponent v žádném případě nemá povinnost toto udělat, ale v mnoha případech to rád udělá.
+(Věřte nebo ne, rozdávat studentům Fka za bakalářky nikoho rozumného netěší.)
+Nezapomeňte ale dát oponentovi dostatek času.
+V ideálním případě se domluvte na termínu, do kdy ještě má smysl oponentovi rozpracovanou práci posílat.
+Je lepší poslat dva týdny před vaším deadlinem půl práce, než večer před deadlinem celou.
